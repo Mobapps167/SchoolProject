@@ -1,0 +1,16 @@
+.center-color {
+    color: orangered;
+    padding: 1.5rem;
+    box-sizing: border-box;
+}
+.main-div{
+    margin: 0px 4.2em;
+}
+input{
+    width: 90%;
+}
+button{
+    background: black;
+    color: aliceblue;
+    padding: 4px;
+}
