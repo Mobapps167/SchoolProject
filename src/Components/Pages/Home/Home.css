@@ -3,14 +3,28 @@
     padding: 1.5rem;
     box-sizing: border-box;
 }
-.main-div{
+
+.main-div {
     margin: 0px 4.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-input{
-    width: 90%;
+
+input {
+    width: 100%;
 }
-button{
+
+label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #151514;
+}
+
+button {
     background: black;
     color: aliceblue;
     padding: 4px;
+    border-radius: 4px;
+    margin-bottom: 10px;
 }
