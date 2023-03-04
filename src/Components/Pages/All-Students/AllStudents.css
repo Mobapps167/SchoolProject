@@ -1,0 +1,22 @@
+center{
+    color: orangered;
+    padding: 1.5rem;
+}
+.main-div1{
+    font-weight: 700;
+    transform: translate(0%,120px);
+}
+
+span{
+    font-size: large;
+    font-weight: 500;
+}
+.main-div3{
+    display: flex;
+    background-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    margin-bottom: 15px;
+}
+.sub-div{
+    margin: 0px 5px;
+}
